@@ -68,6 +68,28 @@ AI-powered automotive telemetry monitoring and diagnostic system.
 - Applied AI systems
 
 ---
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ashmitpro-design/ashmitpro-design/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ashmitpro-design/ashmitpro-design/output/github-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/ashmitpro-design/ashmitpro-design/output/github-snake.svg"
+  />
+</picture>
+
+</div>
 
 <div align="center">
 
